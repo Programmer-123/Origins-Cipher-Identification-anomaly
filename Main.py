@@ -2,8 +2,6 @@ encryptedRawText = '''BDMM@SFOSOATLPPBEU@SBCLCWLBMALTDFBEHR@QRAENCBM@BISAL@LLKUA
 '''
 adfgvx = ["a","d","f","g","v","x"]
 adfgv = ["a","d","f","g","v"]
-import replit
-replit.clear()
 print("Analysis Complete")
 encryptedText = ""
 import re
